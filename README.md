@@ -22,3 +22,9 @@ A highly customizable, feature-rich Android widget application designed for prod
 4. Tap the widget settings to customize your clock face, add events, and configure the Fake Call escape hatch.
 
 *Developed by [Styrish Loy Rodrigues](https://github.com/StyrishRodrigues)*
+
+<img width="1024" height="1536" alt="ChatGPT Image Sep 13, 2026, 06_30_34 PM" src="https://github.com/user-attachments/assets/7a3339cf-cc49-4736-a614-89ee9f26855f" />
+<img width="1024" height="1536" alt="ChatGPT Image Sep 13, 2026, 06_35_57 PM" src="https://github.com/user-attachments/assets/f838e015-8314-4d06-91bf-ee3719da2c99" />
+<img width="1024" height="1536" alt="ChatGPT Image Sep 13, 2026, 06_39_06 PM" src="https://github.com/user-attachments/assets/61870538-860c-4534-8e77-1e11e84f858a" />
+<img width="1024" height="1536" alt="ChatGPT Image Sep 13, 2026, 06_45_12 PM" src="https://github.com/user-attachments/assets/0db39d48-d8c3-4ed3-ad90-9efec8c0d416" />
+
